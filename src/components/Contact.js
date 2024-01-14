@@ -3,7 +3,7 @@ export default function() {
         <>
             <div className="bg-stone-300 text-white text-[20px] bottom-0">
                 <div className="container">
-                    <h2>끝까지 봐주셔서 감사합니다 :)</h2>
+                    <h2>부족하나마 제 포트폴리오가 마음을 사로잡았기를 바랍니다 :)</h2>
                     <p>Email: wlsdlflgy@naver.com</p>
                     <p></p>
                 </div>
