@@ -11,11 +11,12 @@ import { Link } from "react-scroll";
 // npm install react-scroll
 
 // 깃 설치
-// git init           > git 저장소를 초기화
-// git add *          > .gitignore에 입력되어있는 파일 제외하고 모두 저장소에 올리기
-// git commit -m 'first commit'     > commit 메세지 작성
-// git remote add origin https://github.com/kimjin1988/react-git-portfolio.git       > git 저장소 연결
-// git push -u origin master          > git master로 push
+// git init           > git 저장소를 초기화 (처음 git 연결할때만 하면 됨)
+// git add .
+// git commit -m '히스토리 이름'     > commit 메세지 작성
+// git remote add origin https://github.com/kimjin1988/j-portfolio.git       > git 저장소 연결
+// git remote -v            > 확인
+// git push origin master          > master branch로 push
 // npm install gh-pages --save-dev          > 프로젝트에 gh-pages 패키지 설치
 
 
